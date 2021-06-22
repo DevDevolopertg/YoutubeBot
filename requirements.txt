@@ -12,3 +12,5 @@ feedparser
 requests
 tgcrypto
 youtube-dl
+youtube_search
+youtube_search_python
