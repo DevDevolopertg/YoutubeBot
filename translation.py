@@ -3,9 +3,11 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 class Translation(object):
 
     START_TEXT = """
-Hello {} , I'am a simple youtube video link to telegram file or media uploader bot with permanent thumbnail support.
+<b>Hello {} , I'am a simple youtube video link to telegram file or media uploader bot with permanent thumbnail support.</b>
 
-Made by @FayasNoushad
+For more details press <b>Help</b>
+
+<b>Made by @Amal_PM</b>
 """
     HELP_TEXT = """
 <b><u>Link to Media or File</u></b>
@@ -20,14 +22,13 @@ Made by @FayasNoushad
 <b><u>Show Thumbnail</u></b>
 ➠ Send /showthumb to view custom thumbnail.
 
-Made by @FayasNoushad
+<b>Made by @Amal_PM</b>
 """
     ABOUT_TEXT = """
-- **Bot :** `YouTube Downloader`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
+- **Bot :** `YouTube Bot`
+- **Creator :** [AMAL](https://telegram.me/Amal_PM)
 - **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/FayasNoushad/YouTube-Downloader)
+- **Source :** [Click here](https://t.me/kurachkanjiedukkatte/3)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
