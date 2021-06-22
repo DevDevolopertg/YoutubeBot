@@ -59,12 +59,12 @@ For more details press <b>Help</b>
     
 Send your custum thumbnail if required.
 You can use /delthumb to delete the auto-generated thumbnail."""
-    CHECKING_LINK = "<code>Analysing Your Link</code>⏳"
+    CHECKING_LINK = "<b>Analysing Your Link</b>⏳"
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    DOWNLOAD_START = "<code>Downloading To My server Please Wait...</code>"    
-    UPLOAD_START = "<code>Uploading into Telegram...</code>"
+    DOWNLOAD_START = "<b>Downloading To My server Please Wait...</b>"    
+    UPLOAD_START = "<b>Uploading into Telegram...</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
     CUSTOM_CAPTION_UL_FILE = "<b>Join :-</b> @FayasNoushad"
